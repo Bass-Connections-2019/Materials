@@ -14,6 +14,7 @@ https://www.datacamp.com/community/tutorials/pickle-python-tutorial
 
 ## General Deep Learning
 - Recipe for Training: http://karpathy.github.io/2019/04/25/recipe/
+- Machine Learning for Artists: https://ml4a.github.io/ml4a/
 
 ## Misc. Machine Learning
 
