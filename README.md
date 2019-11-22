@@ -1,5 +1,5 @@
 # Materials
-A collection of useful linkes, code bases and reference materials.
+A curation of useful links, code bases and reference materials.
 
 ## Object Detection & Segmentation
 - Models for Remote Sensing: https://github.com/bohaohuang/mrs
