@@ -7,6 +7,7 @@ A curation of useful links, code bases and reference materials.
 ## Dimensionality Reduction
 - tSNE: https://lvdmaaten.github.io/tsne/
 - tSNE and Plotting: https://towardsdatascience.com/plotting-text-and-image-vectors-using-t-sne-d0e43e55d89
+- tSNE and Plotting: (P.165-) http://index-of.es/Varios-2/Introduction%20to%20Machine%20Learning%20with%20Python.pdf
 
 ## Workflow, libaries, and Python
 - Pickle maps:
